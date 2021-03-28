@@ -1,1 +1,2 @@
 This is a message writen in rebase branch
+this is a new commit in rebase branch
